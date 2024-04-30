@@ -23,7 +23,7 @@ public class VowelsCount {
 
 		}
 
-	  System.out.println("Total Vowels count "+count);
+	  System.out.println("TOTALS Vowels count "+count);
 	}
 
 }
