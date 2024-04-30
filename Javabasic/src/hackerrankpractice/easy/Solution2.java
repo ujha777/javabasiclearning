@@ -22,7 +22,7 @@ public class Solution2 {
 		String Final2=Upper2+Remain2;
 		System.out.println(Final1+ " "+Final2);
 
-		
+		sc.close();
         
 	}
 

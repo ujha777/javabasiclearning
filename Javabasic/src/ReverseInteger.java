@@ -24,6 +24,8 @@ public class ReverseInteger {
      StringBuffer sb= new StringBuffer(str);
      System.out.println(sb.reverse());
      
+     in.close();
+     
       
 	}
 
