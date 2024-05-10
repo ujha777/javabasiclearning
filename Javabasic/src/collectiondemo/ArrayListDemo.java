@@ -33,6 +33,8 @@ public class ArrayListDemo {
 		l.add("N");
 		System.out.println(l);
 		
+		
+		
 		//Best choice of using AL if our frequent operation is retrieval operation
 		//Worst choice of using LL if our frequent operation is insertion or deletion in the middle
 		//(Because several shift operation is required)
